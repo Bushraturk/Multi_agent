@@ -1,0 +1,7 @@
+chainlit>=2.6.9
+openai-agents>=0.2.8
+python-dotenv>=1.1.1
+openai>=1.0.0
+
+
+google-generativeai
